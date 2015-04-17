@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WP Html Class
-Plugin URI: https://github.com/maickon/HTMLClass
+Plugin URI: https://github.com/maickon/Wp-Html-Class
 Description: Este plugin permite que o programador utilize código PHP no lugar de HTML.
 Version: 0.0.1
 Author: Maickon Rangel
